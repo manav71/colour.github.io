@@ -1,1 +1,1357 @@
-
+[
+	{
+		"project": "gene",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94578314,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.82208586,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/layers",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/layers/Eyeball",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/layers/Top",
+		"error": "could not clone repo from gene/layers/Top: repository not found"
+	},
+	{
+		"project": "lid",
+		"error": "could not clone repo from lid: repository not found"
+	},
+	{
+		"project": "gene/layers/Eye",
+		"error": "could not clone repo from gene/layers/Eye: repository not found"
+	},
+	{
+		"project": "color",
+		"error": "could not clone repo from color: repository not found"
+	},
+	{
+		"project": "gene/layers/Bottom",
+		"error": "could not clone repo from gene/layers/Bottom: repository not found"
+	},
+	{
+		"project": "lid",
+		"error": "could not clone repo from lid: repository not found"
+	},
+	{
+		"project": "gene/layers/Background",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/layers/Shine",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/layers/Goo",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/layers/Iris",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/src",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/constants",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/logs",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/logs/refs",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/logs/refs/heads",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/logs/refs/remotes",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/logs/refs/remotes/origin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/info",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/hooks",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/objects",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/objects/pack",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/objects/info",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/branches",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/refs",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/refs/heads",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/refs/tags",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/refs/remotes",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/.git/refs/remotes/origin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/modules",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/fs.realpath",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.91346157,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT",
+				"confidence": 0.8797814,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/https-proxy-agent",
+		"matches": [
+			{
+				"license": "Unlicense",
+				"confidence": 1,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT",
+				"confidence": 1,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.803681,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-CMU",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-advertising",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "AML",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-feh",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "MirOS",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-enna",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "NTP-0",
+				"confidence": 0.33333334,
+				"file": "README.md"
+			},
+			{
+				"license": "OSL-1.1",
+				"confidence": 0.33333334,
+				"file": "README.md"
+			},
+			{
+				"license": "NLPL",
+				"confidence": 0.33333334,
+				"file": "README.md"
+			},
+			{
+				"license": "EUDatagrid",
+				"confidence": 0.33333334,
+				"file": "README.md"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/https-proxy-agent/dist",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/delegates",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.9325153,
+				"file": "License"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.8125,
+				"file": "License"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/delegates/test",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/@mapbox",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/@mapbox/node-pre-gyp",
+		"matches": [
+			{
+				"license": "BSD-3-Clause",
+				"confidence": 0.9810426,
+				"file": "LICENSE"
+			},
+			{
+				"license": "BSD-3-Clause-No-Nuclear-License-2014",
+				"confidence": 0.8483412,
+				"file": "LICENSE"
+			},
+			{
+				"license": "BSD-3-Clause-Clear",
+				"confidence": 0.83412325,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/@mapbox/node-pre-gyp/bin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/@mapbox/node-pre-gyp/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/@mapbox/node-pre-gyp/lib/util",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/@mapbox/node-pre-gyp/lib/util/nw-pre-gyp",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/has-unicode",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.95098037,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/chownr",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/tr46",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/tr46/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/decompress-response",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94578314,
+				"file": "license"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.82208586,
+				"file": "license"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/signal-exit",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/agent-base",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 1,
+				"file": "README.md"
+			},
+			{
+				"license": "Unlicense",
+				"confidence": 1,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.803681,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-CMU",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "AML",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-feh",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-enna",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "MirOS",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "MIT-advertising",
+				"confidence": 0.5,
+				"file": "README.md"
+			},
+			{
+				"license": "NTP-0",
+				"confidence": 0.33333334,
+				"file": "README.md"
+			},
+			{
+				"license": "OSL-1.1",
+				"confidence": 0.33333334,
+				"file": "README.md"
+			},
+			{
+				"license": "NLPL",
+				"confidence": 0.33333334,
+				"file": "README.md"
+			},
+			{
+				"license": "EUDatagrid",
+				"confidence": 0.33333334,
+				"file": "README.md"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/agent-base/src",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/agent-base/dist",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/agent-base/dist/src",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/gauge",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.95098037,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/object-assign",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94011974,
+				"file": "license"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "license"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/wrappy",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/node-fetch",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94011974,
+				"file": "LICENSE.md"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "LICENSE.md"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/node-fetch/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/glob",
+		"matches": [
+			{
+				"license": "CC-BY-SA-4.0",
+				"confidence": 1,
+				"file": "LICENSE"
+			},
+			{
+				"license": "0BSD",
+				"confidence": 0.91346157,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/inflight",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/wide-align",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.95098037,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/console-control-strings",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.95098037,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/minipass",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/charenc",
+		"matches": [
+			{
+				"license": "BSD-3-Clause",
+				"confidence": 0.9810426,
+				"file": "LICENSE.mkd"
+			},
+			{
+				"license": "BSD-3-Clause-No-Nuclear-License-2014",
+				"confidence": 0.83886254,
+				"file": "LICENSE.mkd"
+			},
+			{
+				"license": "BSD-3-Clause-Clear",
+				"confidence": 0.83412325,
+				"file": "LICENSE.mkd"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/tar",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/tar/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/nopt",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/nopt/bin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/nopt/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/string_decoder",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.9259259,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.8050314,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/string_decoder/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/simple-concat",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.85806453,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/simple-concat/test",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/semver",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/semver/bin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/semver/ranges",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/semver/functions",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/semver/internal",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/semver/classes",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/ms",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94011974,
+				"file": "license.md"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "license.md"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/is-fullwidth-code-point",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94011974,
+				"file": "license"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "license"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/debug",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.93373495,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/debug/src",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/util-deprecate",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.93373495,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/mkdirp",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.9325153,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.8125,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/mkdirp/bin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/mkdirp/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/balanced-match",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.93292683,
+				"file": "LICENSE.md"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.8136646,
+				"file": "LICENSE.md"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/balanced-match/.github",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/ansi-regex",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94578314,
+				"file": "license"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.82208586,
+				"file": "license"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/minizlib",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.9259259,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.8050314,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/aproba",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.95098037,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/canvas",
+		"matches": [
+			{
+				"license": "Unlicense",
+				"confidence": 0.9949495,
+				"file": "Readme.md"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/canvas/src",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/src/backend",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/src/bmp",
+		"matches": [
+			{
+				"license": "Unlicense",
+				"confidence": 0.9949495,
+				"file": "LICENSE.md"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/canvas/build",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/.deps",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/.deps/Release",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/.deps/Release/obj.target",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/.deps/Release/obj.target/canvas",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/.deps/Release/obj.target/canvas/src",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/.deps/Release/obj.target/canvas/src/backend",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/.deps/Release/obj.target/canvas/src/bmp",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/obj.target",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/obj.target/canvas",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/obj.target/canvas/src",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/obj.target/canvas/src/backend",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/build/Release/obj.target/canvas/src/bmp",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/types",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/util",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/canvas/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/string-width",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94578314,
+				"file": "license"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.82208586,
+				"file": "license"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/set-blocking",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.88990825,
+				"file": "LICENSE.txt"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/mimic-response",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94578314,
+				"file": "license"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.82208586,
+				"file": "license"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/fs-minipass",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/.bin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/path-is-absolute",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94011974,
+				"file": "license"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "license"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/yallist",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/sha1",
+		"matches": [
+			{
+				"license": "BSD-3-Clause",
+				"confidence": 0.9810426,
+				"file": "LICENSE"
+			},
+			{
+				"license": "BSD-3-Clause-No-Nuclear-License-2014",
+				"confidence": 0.83886254,
+				"file": "LICENSE"
+			},
+			{
+				"license": "BSD-3-Clause-Clear",
+				"confidence": 0.83412325,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/simple-get",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.85806453,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/npmlog",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/webidl-conversions",
+		"matches": [
+			{
+				"license": "BSD-2-Clause",
+				"confidence": 0.98395723,
+				"file": "LICENSE.md"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/webidl-conversions/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/minimatch",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/nan",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94011974,
+				"file": "LICENSE.md"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "LICENSE.md"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/nan/tools",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/nan/doc",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/detect-libc",
+		"matches": [
+			{
+				"license": "Apache-2.0",
+				"confidence": 0.98445594,
+				"file": "LICENSE"
+			},
+			{
+				"license": "ECL-2.0",
+				"confidence": 0.8981842,
+				"file": "LICENSE"
+			},
+			{
+				"license": "SHL-0.51",
+				"confidence": 0.85278857,
+				"file": "LICENSE"
+			},
+			{
+				"license": "SHL-0.5",
+				"confidence": 0.85214007,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/detect-libc/bin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/detect-libc/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/are-we-there-yet",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/are-we-there-yet/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/make-dir",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94578314,
+				"file": "license"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.82208586,
+				"file": "license"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/make-dir/node_modules",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/make-dir/node_modules/semver",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/make-dir/node_modules/semver/bin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/make-dir/node_modules/.bin",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/brace-expansion",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94578314,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.82208586,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/lru-cache",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/once",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/color-support",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/whatwg-url",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94011974,
+				"file": "LICENSE.txt"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "LICENSE.txt"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/whatwg-url/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/concat-map",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.8476821,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/concat-map/test",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/concat-map/example",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/gif-encoder-2",
+		"matches": [
+			{
+				"license": "Unlicense",
+				"confidence": 0.9898477,
+				"file": "UNLICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/gif-encoder-2/src",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/readable-stream",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.9259259,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.8050314,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/readable-stream/lib",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/readable-stream/lib/internal",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/readable-stream/lib/internal/streams",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/node_modules/inherits",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/strip-ansi",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94578314,
+				"file": "license"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.82208586,
+				"file": "license"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/safe-buffer",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.94011974,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.81595093,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/crypt",
+		"matches": [
+			{
+				"license": "BSD-3-Clause",
+				"confidence": 0.9810426,
+				"file": "LICENSE.mkd"
+			},
+			{
+				"license": "BSD-3-Clause-No-Nuclear-License-2014",
+				"confidence": 0.83886254,
+				"file": "LICENSE.mkd"
+			},
+			{
+				"license": "BSD-3-Clause-Clear",
+				"confidence": 0.83412325,
+				"file": "LICENSE.mkd"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/rimraf",
+		"matches": [
+			{
+				"license": "0BSD",
+				"confidence": 0.9238095,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/node_modules/abbrev",
+		"matches": [
+			{
+				"license": "MIT",
+				"confidence": 0.9325153,
+				"file": "LICENSE"
+			},
+			{
+				"license": "0BSD",
+				"confidence": 0.91346157,
+				"file": "LICENSE"
+			},
+			{
+				"license": "MIT-0",
+				"confidence": 0.8125,
+				"file": "LICENSE"
+			}
+		]
+	},
+	{
+		"project": "gene/.github",
+		"error": "no license file was found"
+	},
+	{
+		"project": "gene/utils",
+		"error": "no license file was found"
+	}
+]
